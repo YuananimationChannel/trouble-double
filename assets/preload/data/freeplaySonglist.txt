@@ -1,0 +1,5 @@
+Shop List:emma:7
+Breeze:emma:7
+Mischief:cuack:7
+Hangout:emmaandcuack:7
+Manic:cuackevil:7

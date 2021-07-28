@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icons.png">
+<SubTexture name="1icons0000" x="354" y="0" width="354" height="354" frameWidth="354" frameHeight="354" />
+<SubTexture name="2icons0000" x="708" y="0" width="354" height="354" frameWidth="354" frameHeight="354" />
+<SubTexture name="3icons0000" x="0" y="0" width="354" height="354" frameWidth="354" frameHeight="354" />
+<SubTexture name="4icons0000" x="1062" y="0" width="354" height="354" frameWidth="354" frameHeight="354" />
+<SubTexture name="5icons0000" x="0" y="354" width="354" height="354" frameWidth="354" frameHeight="354" />
+<SubTexture name="6icons0000" x="354" y="354" width="354" height="354" frameWidth="354" frameHeight="354" />
+<SubTexture name="7icons0000" x="708" y="354" width="354" height="354" frameWidth="354" frameHeight="354" />
+<SubTexture name="8icons0000" x="1062" y="354" width="354" height="354" frameWidth="354" frameHeight="354" />
+<SubTexture name="9icons0000" x="0" y="708" width="354" height="354" frameWidth="354" frameHeight="354" />
+</TextureAtlas>

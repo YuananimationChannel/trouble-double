@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CrowdParkFRONT.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Front bounce 30000" x="0" y="0" width="1460" height="413"/>
+	<SubTexture name="Front bounce 30001" x="0" y="0" width="1460" height="413"/>
+	<SubTexture name="Front bounce 30002" x="0" y="413" width="1460" height="398" frameX="0" frameY="-15" frameWidth="1460" frameHeight="413"/>
+	<SubTexture name="Front bounce 30003" x="0" y="811" width="1460" height="407" frameX="0" frameY="-6" frameWidth="1460" frameHeight="413"/>
+	<SubTexture name="Front bounce 30004" x="0" y="1218" width="1460" height="412" frameX="0" frameY="-1" frameWidth="1460" frameHeight="413"/>
+	<SubTexture name="Front bounce 30005" x="0" y="1630" width="1460" height="413"/>
+	<SubTexture name="Front bounce 30006" x="0" y="0" width="1460" height="413"/>
+	<SubTexture name="Front bounce 30007" x="0" y="0" width="1460" height="413"/>
+	<SubTexture name="Front bounce 30008" x="0" y="0" width="1460" height="413"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="creditshit.png">
+<SubTexture name="text emma0000" x="0" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="text shadow0000" x="1290" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="text snow0000" x="2580" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="text gama0000" x="3870" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="text coral0000" x="0" y="734" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="text pix0000" x="1290" y="734" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="text dor0000" x="2580" y="734" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="text ed0000" x="3870" y="734" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="text cuack0000" x="0" y="1468" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+</TextureAtlas>

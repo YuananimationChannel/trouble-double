@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CuackGoo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="somethinglol Attack DOWN0000" x="0" y="4300" width="592" height="684" frameX="-7" frameY="-1" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="somethinglol Attack DOWN0001" x="592" y="4300" width="566" height="684" frameX="-1" frameY="-1" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="somethinglol Attack DOWN0002" x="1158" y="4300" width="563" height="684" frameX="0" frameY="-1" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="somethinglol Attack DOWN0003" x="1721" y="4300" width="564" height="676" frameX="-12" frameY="-8" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="somethinglol Attack DOWN0004" x="2285" y="4300" width="565" height="678" frameX="-16" frameY="-6" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="somethinglol Attack DOWN0005" x="0" y="4984" width="1463" height="678" frameX="-17" frameY="-6" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="somethinglol Attack DOWN0006" x="1463" y="4984" width="1373" height="678" frameX="-18" frameY="-6" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="somethinglol Attack UP0000" x="2836" y="4984" width="552" height="685" frameX="-29" frameY="-1" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="somethinglol Attack UP0001" x="3388" y="4984" width="568" height="672" frameX="-4" frameY="-13" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="somethinglol Attack UP0002" x="0" y="6269" width="570" height="671" frameX="0" frameY="-14" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="somethinglol Attack UP0003" x="0" y="6269" width="570" height="671" frameX="0" frameY="-14" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="somethinglol Attack UP0004" x="570" y="6269" width="561" height="682" frameX="-21" frameY="-3" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="somethinglol Attack UP0005" x="1131" y="6269" width="1481" height="685" frameX="-29" frameY="-2" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="somethinglol Attack UP0006" x="2612" y="6269" width="1393" height="685" frameX="-29" frameY="-3" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="somethinglol Attack UP0007" x="0" y="6354" width="1389" height="686" frameX="-32" frameY="-3" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="somethinglol UP0000" x="1388" y="6353" width="600" height="675"/>
+	<SubTexture name="somethinglol LEFT0000" x="1389" y="6354" width="460" height="683" frameX="-45" frameY="-3" frameWidth="505" frameHeight="685"/>
+	<SubTexture name="somethinglol LEFT0001" x="1389" y="6354" width="460" height="683" frameX="-45" frameY="-3" frameWidth="505" frameHeight="685"/>
+	<SubTexture name="somethinglol LEFT0002" x="1849" y="6354" width="452" height="677" frameX="0" frameY="-8" frameWidth="505" frameHeight="685"/>
+	<SubTexture name="somethinglol LEFT0003" x="2301" y="6354" width="459" height="679" frameX="-8" frameY="-6" frameWidth="505" frameHeight="685"/>
+	<SubTexture name="somethinglol LEFT0004" x="2301" y="6354" width="459" height="679" frameX="-8" frameY="-6" frameWidth="505" frameHeight="685"/>
+	<SubTexture name="somethinglol LEFT0005" x="2301" y="6354" width="459" height="679" frameX="-8" frameY="-6" frameWidth="505" frameHeight="685"/>
+	<SubTexture name="somethinglol RIGHT0000" x="2760" y="6354" width="608" height="672" frameX="-14" frameY="-3" frameWidth="641" frameHeight="675"/>
+	<SubTexture name="somethinglol RIGHT0001" x="3368" y="6354" width="608" height="672" frameX="-14" frameY="-3" frameWidth="641" frameHeight="675"/>
+	<SubTexture name="somethinglol RIGHT0002" x="0" y="7040" width="641" height="675"/>
+	<SubTexture name="somethinglol RIGHT0003" x="641" y="7040" width="625" height="674" frameX="-4" frameY="-1" frameWidth="641" frameHeight="675"/>
+	<SubTexture name="somethinglol RIGHT0004" x="1266" y="7040" width="625" height="674" frameX="-4" frameY="-1" frameWidth="641" frameHeight="675"/>
+	<SubTexture name="somethinglol RIGHT0005" x="1266" y="7040" width="625" height="674" frameX="-4" frameY="-1" frameWidth="641" frameHeight="675"/>
+	<SubTexture name="somethinglol down0000" x="1891" y="7040" width="526" height="523" frameX="-11" frameY="-1" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="somethinglol down0001" x="1891" y="7040" width="526" height="523" frameX="-11" frameY="-1" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="somethinglol down0002" x="2417" y="7040" width="531" height="512" frameX="0" frameY="-10" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="somethinglol down0003" x="2948" y="7040" width="533" height="514" frameX="-2" frameY="-8" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="somethinglol down0004" x="3481" y="7040" width="534" height="514" frameX="-3" frameY="-8" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="somethinglol down0005" x="0" y="7715" width="534" height="515" frameX="-3" frameY="-7" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="somethinglol down0006" x="0" y="7715" width="534" height="515" frameX="-3" frameY="-7" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="somethinglol down0007" x="0" y="7715" width="534" height="515" frameX="-3" frameY="-7" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="somethinglol idle0000" x="534" y="7715" width="430" height="668" frameX="-47" frameY="-3" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="somethinglol idle0001" x="534" y="7715" width="430" height="668" frameX="-47" frameY="-1" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="somethinglol idle0002" x="964" y="7715" width="477" height="665" frameX="0" frameY="-3" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="somethinglol idle0003" x="1441" y="7715" width="444" height="664" frameX="-33" frameY="-4" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="somethinglol idle0004" x="1885" y="7715" width="432" height="665" frameX="-45" frameY="-3" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="somethinglol idle0005" x="2317" y="7715" width="430" height="667" frameX="-47" frameY="-1" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="somethinglol idle0006" x="2747" y="7715" width="430" height="668" frameX="-47" frameY="-1" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="somethinglol idle0007" x="534" y="7715" width="430" height="668" frameX="-47" frameY="-3" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="somethinglol idle0008" x="534" y="7715" width="430" height="668" frameX="-47" frameY="-3" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="somethinglol idle0009" x="534" y="7715" width="430" height="668" frameX="-47" frameY="-3" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="GooCuack Attack DOWN0000" x="0" y="0" width="586" height="679" frameX="-18" frameY="-2" frameWidth="1379" frameHeight="681"/>
+	<SubTexture name="GooCuack Attack DOWN0001" x="586" y="0" width="587" height="680" frameX="-9" frameY="-1" frameWidth="1379" frameHeight="681"/>
+	<SubTexture name="GooCuack Attack DOWN0002" x="1173" y="0" width="587" height="681" frameX="0" frameY="0" frameWidth="1379" frameHeight="681"/>
+	<SubTexture name="GooCuack Attack DOWN0003" x="1173" y="0" width="587" height="681" frameX="0" frameY="0" frameWidth="1379" frameHeight="681"/>
+	<SubTexture name="GooCuack Attack DOWN0004" x="1760" y="0" width="575" height="676" frameX="-8" frameY="-5" frameWidth="1379" frameHeight="681"/>
+	<SubTexture name="GooCuack Attack DOWN0005" x="2335" y="0" width="1263" height="679" frameX="-12" frameY="-2" frameWidth="1379" frameHeight="681"/>
+	<SubTexture name="GooCuack Attack DOWN0006" x="3598" y="0" width="1367" height="679" frameX="-12" frameY="-2" frameWidth="1379" frameHeight="681"/>
+	<SubTexture name="GooCuack Attack DOWN0007" x="3598" y="0" width="1367" height="679" frameX="-12" frameY="-2" frameWidth="1379" frameHeight="681"/>
+	<SubTexture name="GooCuack Attack UP0000" x="4965" y="0" width="551" height="686" frameX="-21" frameY="-1" frameWidth="1411" frameHeight="687"/>
+	<SubTexture name="GooCuack Attack UP0001" x="5516" y="0" width="548" height="677" frameX="-11" frameY="-10" frameWidth="1411" frameHeight="687"/>
+	<SubTexture name="GooCuack Attack UP0002" x="6064" y="0" width="544" height="673" frameX="0" frameY="-14" frameWidth="1411" frameHeight="687"/>
+	<SubTexture name="GooCuack Attack UP0003" x="6064" y="0" width="544" height="673" frameX="0" frameY="-14" frameWidth="1411" frameHeight="687"/>
+	<SubTexture name="GooCuack Attack UP0004" x="6608" y="0" width="548" height="683" frameX="-16" frameY="-4" frameWidth="1411" frameHeight="687"/>
+	<SubTexture name="GooCuack Attack UP0005" x="0" y="686" width="1289" height="687" frameX="-20" frameY="0" frameWidth="1411" frameHeight="687"/>
+	<SubTexture name="GooCuack Attack UP0006" x="1289" y="686" width="1390" height="687" frameX="-21" frameY="0" frameWidth="1411" frameHeight="687"/>
+	<SubTexture name="GooCuack Attack UP0007" x="1289" y="686" width="1390" height="687" frameX="-21" frameY="0" frameWidth="1411" frameHeight="687"/>
+	<SubTexture name="GooCuack LEFT0000" x="2679" y="686" width="459" height="683" frameX="-53" frameY="-4" frameWidth="512" frameHeight="687"/>
+	<SubTexture name="GooCuack LEFT0001" x="2679" y="686" width="459" height="683" frameX="-53" frameY="-4" frameWidth="512" frameHeight="687"/>
+	<SubTexture name="GooCuack LEFT0002" x="3138" y="686" width="512" height="687"/>
+	<SubTexture name="GooCuack LEFT0003" x="3650" y="686" width="490" height="685" frameX="-22" frameY="-2" frameWidth="512" frameHeight="687"/>
+	<SubTexture name="GooCuack LEFT0004" x="3650" y="686" width="490" height="685" frameX="-22" frameY="-2" frameWidth="512" frameHeight="687"/>
+	<SubTexture name="GooCuack LEFT0005" x="3650" y="686" width="490" height="685" frameX="-22" frameY="-2" frameWidth="512" frameHeight="687"/>
+	<SubTexture name="GooCuack RIGHT0000" x="4140" y="686" width="608" height="672" frameX="-2" frameY="0" frameWidth="633" frameHeight="672"/>
+	<SubTexture name="GooCuack RIGHT0001" x="4748" y="686" width="608" height="672" frameX="-2" frameY="0" frameWidth="633" frameHeight="672"/>
+	<SubTexture name="GooCuack RIGHT0002" x="5356" y="686" width="627" height="672" frameX="-6" frameY="0" frameWidth="633" frameHeight="672"/>
+	<SubTexture name="GooCuack RIGHT0003" x="5983" y="686" width="622" height="671" frameX="0" frameY="-1" frameWidth="633" frameHeight="672"/>
+	<SubTexture name="GooCuack RIGHT0004" x="6605" y="686" width="622" height="671" frameX="0" frameY="-1" frameWidth="633" frameHeight="672"/>
+	<SubTexture name="GooCuack RIGHT0005" x="7227" y="686" width="622" height="671" frameX="0" frameY="-1" frameWidth="633" frameHeight="672"/>
+	<SubTexture name="GooCuack RIGHT0006" x="7227" y="686" width="622" height="671" frameX="0" frameY="-1" frameWidth="633" frameHeight="672"/>
+	<SubTexture name="GooCuack UP0000" x="0" y="1373" width="488" height="672" frameX="-23" frameY="-15" frameWidth="511" frameHeight="688"/>
+	<SubTexture name="GooCuack UP0001" x="0" y="1373" width="488" height="672" frameX="-23" frameY="-15" frameWidth="511" frameHeight="688"/>
+	<SubTexture name="GooCuack UP0002" x="488" y="1373" width="511" height="688"/>
+	<SubTexture name="GooCuack UP0003" x="999" y="1373" width="503" height="685" frameX="-8" frameY="-3" frameWidth="511" frameHeight="688"/>
+	<SubTexture name="GooCuack down0000" x="1502" y="1373" width="533" height="529" frameX="-8" frameY="0" frameWidth="548" frameHeight="529"/>
+	<SubTexture name="GooCuack down0001" x="1502" y="1373" width="533" height="529" frameX="-8" frameY="0" frameWidth="548" frameHeight="529"/>
+	<SubTexture name="GooCuack down0002" x="2035" y="1373" width="548" height="526" frameX="0" frameY="-1" frameWidth="548" frameHeight="529"/>
+	<SubTexture name="GooCuack down0003" x="2583" y="1373" width="538" height="528" frameX="-5" frameY="0" frameWidth="548" frameHeight="529"/>
+	<SubTexture name="GooCuack down0004" x="3121" y="1373" width="534" height="529" frameX="-7" frameY="0" frameWidth="548" frameHeight="529"/>
+	<SubTexture name="GooCuack down0005" x="1502" y="1373" width="533" height="529" frameX="-8" frameY="0" frameWidth="548" frameHeight="529"/>
+	<SubTexture name="GooCuack down0006" x="1502" y="1373" width="533" height="529" frameX="-8" frameY="0" frameWidth="548" frameHeight="529"/>
+	<SubTexture name="GooCuack idle0000" x="3655" y="1373" width="430" height="668" frameX="-41" frameY="0" frameWidth="471" frameHeight="668"/>
+	<SubTexture name="GooCuack idle0001" x="3655" y="1373" width="430" height="668" frameX="-41" frameY="0" frameWidth="471" frameHeight="668"/>
+	<SubTexture name="GooCuack idle0002" x="4085" y="1373" width="471" height="659" frameX="0" frameY="-9" frameWidth="471" frameHeight="668"/>
+	<SubTexture name="GooCuack idle0003" x="4556" y="1373" width="447" height="664" frameX="-24" frameY="-4" frameWidth="471" frameHeight="668"/>
+	<SubTexture name="GooCuack idle0004" x="5003" y="1373" width="435" height="667" frameX="-36" frameY="-1" frameWidth="471" frameHeight="668"/>
+	<SubTexture name="GooCuack idle0005" x="5438" y="1373" width="431" height="667" frameX="-40" frameY="-1" frameWidth="471" frameHeight="668"/>
+	<SubTexture name="GooCuack idle0006" x="3655" y="1373" width="430" height="668" frameX="-41" frameY="0" frameWidth="471" frameHeight="668"/>
+	<SubTexture name="GooCuack idle0007" x="3655" y="1373" width="430" height="668" frameX="-41" frameY="0" frameWidth="471" frameHeight="668"/>
+	<SubTexture name="GooCuack idle0008" x="3655" y="1373" width="430" height="668" frameX="-41" frameY="0" frameWidth="471" frameHeight="668"/>
+	<SubTexture name="Gooack Attack DOWN0000" x="5869" y="1373" width="592" height="684" frameX="-7" frameY="0" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="Gooack Attack DOWN0001" x="6461" y="1373" width="566" height="684" frameX="-1" frameY="0" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="Gooack Attack DOWN0002" x="7027" y="1373" width="563" height="684" frameX="0" frameY="0" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="Gooack Attack DOWN0003" x="7590" y="1373" width="564" height="676" frameX="-12" frameY="-8" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="Gooack Attack DOWN0004" x="0" y="2061" width="565" height="678" frameX="-16" frameY="-6" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="Gooack Attack DOWN0005" x="565" y="2061" width="1463" height="678" frameX="-17" frameY="-6" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="Gooack Attack DOWN0006" x="2028" y="2061" width="1373" height="678" frameX="-18" frameY="-6" frameWidth="1480" frameHeight="684"/>
+	<SubTexture name="Gooack Attack UP0000" x="3401" y="2061" width="552" height="685" frameX="-29" frameY="0" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="Gooack Attack UP0001" x="3953" y="2061" width="568" height="672" frameX="-4" frameY="-13" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="Gooack Attack UP0002" x="4521" y="2061" width="570" height="671" frameX="0" frameY="-14" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="Gooack Attack UP0003" x="4521" y="2061" width="570" height="671" frameX="0" frameY="-14" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="Gooack Attack UP0004" x="5091" y="2061" width="561" height="682" frameX="-21" frameY="-3" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="Gooack Attack UP0005" x="5652" y="2061" width="1481" height="685" frameX="-29" frameY="0" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="Gooack Attack UP0006" x="0" y="2746" width="1393" height="685" frameX="-29" frameY="0" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="Gooack Attack UP0007" x="1393" y="2746" width="1389" height="686" frameX="-32" frameY="0" frameWidth="1510" frameHeight="686"/>
+	<SubTexture name="Gooack LEFT0000" x="2782" y="2746" width="460" height="683" frameX="-45" frameY="0" frameWidth="505" frameHeight="685"/>
+	<SubTexture name="Gooack LEFT0001" x="2782" y="2746" width="460" height="683" frameX="-45" frameY="0" frameWidth="505" frameHeight="685"/>
+	<SubTexture name="Gooack LEFT0002" x="3242" y="2746" width="452" height="677" frameX="0" frameY="-8" frameWidth="505" frameHeight="685"/>
+	<SubTexture name="Gooack LEFT0003" x="3694" y="2746" width="459" height="679" frameX="-8" frameY="-6" frameWidth="505" frameHeight="685"/>
+	<SubTexture name="Gooack LEFT0004" x="3694" y="2746" width="459" height="679" frameX="-8" frameY="-6" frameWidth="505" frameHeight="685"/>
+	<SubTexture name="Gooack LEFT0005" x="3694" y="2746" width="459" height="679" frameX="-8" frameY="-6" frameWidth="505" frameHeight="685"/>
+	<SubTexture name="Gooack RIGHT0000" x="4153" y="2746" width="608" height="672" frameX="-14" frameY="-3" frameWidth="641" frameHeight="675"/>
+	<SubTexture name="Gooack RIGHT0001" x="4761" y="2746" width="608" height="672" frameX="-14" frameY="-3" frameWidth="641" frameHeight="675"/>
+	<SubTexture name="Gooack RIGHT0002" x="5369" y="2746" width="641" height="675"/>
+	<SubTexture name="Gooack RIGHT0003" x="6010" y="2746" width="625" height="674" frameX="-4" frameY="-1" frameWidth="641" frameHeight="675"/>
+	<SubTexture name="Gooack RIGHT0004" x="6635" y="2746" width="625" height="674" frameX="-4" frameY="-1" frameWidth="641" frameHeight="675"/>
+	<SubTexture name="Gooack RIGHT0005" x="6635" y="2746" width="625" height="674" frameX="-4" frameY="-1" frameWidth="641" frameHeight="675"/>
+	<SubTexture name="Gooack UP0000" x="7260" y="2746" width="489" height="672" frameX="-36" frameY="-31" frameWidth="525" frameHeight="703"/>
+	<SubTexture name="Gooack UP0001" x="7260" y="2746" width="489" height="672" frameX="-36" frameY="-31" frameWidth="525" frameHeight="703"/>
+	<SubTexture name="Gooack UP0002" x="0" y="3432" width="525" height="703"/>
+	<SubTexture name="Gooack UP0003" x="525" y="3432" width="514" height="691" frameX="-11" frameY="-12" frameWidth="525" frameHeight="703"/>
+	<SubTexture name="Gooack UP0004" x="525" y="3432" width="514" height="691" frameX="-11" frameY="-12" frameWidth="525" frameHeight="703"/>
+	<SubTexture name="Gooack UP0005" x="525" y="3432" width="514" height="691" frameX="-11" frameY="-12" frameWidth="525" frameHeight="703"/>
+	<SubTexture name="Gooack down0000" x="1039" y="3432" width="526" height="523" frameX="-11" frameY="0" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="Gooack down0001" x="1039" y="3432" width="526" height="523" frameX="-11" frameY="0" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="Gooack down0002" x="1565" y="3432" width="531" height="512" frameX="0" frameY="-10" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="Gooack down0003" x="2096" y="3432" width="533" height="514" frameX="-2" frameY="-8" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="Gooack down0004" x="2629" y="3432" width="534" height="514" frameX="-3" frameY="-8" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="Gooack down0005" x="3163" y="3432" width="534" height="515" frameX="-3" frameY="-7" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="Gooack down0006" x="3163" y="3432" width="534" height="515" frameX="-3" frameY="-7" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="Gooack down0007" x="3163" y="3432" width="534" height="515" frameX="-3" frameY="-7" frameWidth="537" frameHeight="523"/>
+	<SubTexture name="Gooack idle0000" x="3697" y="3432" width="430" height="668" frameX="-47" frameY="0" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="Gooack idle0001" x="3697" y="3432" width="430" height="668" frameX="-47" frameY="0" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="Gooack idle0002" x="4127" y="3432" width="477" height="665" frameX="0" frameY="-3" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="Gooack idle0003" x="4604" y="3432" width="444" height="664" frameX="-33" frameY="-4" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="Gooack idle0004" x="5048" y="3432" width="432" height="665" frameX="-45" frameY="-3" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="Gooack idle0005" x="5480" y="3432" width="430" height="667" frameX="-47" frameY="-1" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="Gooack idle0006" x="5910" y="3432" width="430" height="668" frameX="-47" frameY="0" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="Gooack idle0007" x="3697" y="3432" width="430" height="668" frameX="-47" frameY="0" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="Gooack idle0008" x="3697" y="3432" width="430" height="668" frameX="-47" frameY="0" frameWidth="477" frameHeight="668"/>
+	<SubTexture name="Gooack idle0009" x="3697" y="3432" width="430" height="668" frameX="-47" frameY="0" frameWidth="477" frameHeight="668"/>
+</TextureAtlas>

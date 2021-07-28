@@ -1,0 +1,6 @@
+stage
+shop list
+park
+park2
+park3
+night

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deathlol.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Dead Loop0000" x="0" y="0" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0001" x="1318" y="0" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0002" x="2636" y="0" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0003" x="3954" y="0" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0004" x="5272" y="0" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0005" x="6590" y="0" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0006" x="0" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0007" x="1318" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0008" x="2636" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0009" x="2636" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0010" x="2636" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0011" x="2636" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0012" x="2636" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0013" x="2636" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0014" x="2636" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0015" x="2636" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead Loop0016" x="2636" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0000" x="3954" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0001" x="5272" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0002" x="6590" y="790" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0003" x="0" y="1580" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0004" x="1318" y="1580" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0005" x="2636" y="1580" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0006" x="3954" y="1580" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0007" x="5272" y="1580" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0008" x="6590" y="1580" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0009" x="0" y="2370" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0010" x="1318" y="2370" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0011" x="2636" y="2370" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0012" x="3954" y="2370" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0013" x="5272" y="2370" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0014" x="6590" y="2370" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0015" x="0" y="3160" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0016" x="1318" y="3160" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0017" x="2636" y="3160" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0018" x="3954" y="3160" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0019" x="5272" y="3160" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0020" x="6590" y="3160" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0021" x="0" y="3950" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0022" x="1318" y="3950" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0023" x="1318" y="3950" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0024" x="1318" y="3950" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0025" x="1318" y="3950" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0026" x="1318" y="3950" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0027" x="1318" y="3950" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0028" x="1318" y="3950" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0029" x="1318" y="3950" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0030" x="1318" y="3950" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0031" x="1318" y="3950" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0032" x="1318" y="3950" width="1318" height="790"/>
+	<SubTexture name="BF Dead confirm0033" x="1318" y="3950" width="1318" height="790"/>
+	<SubTexture name="CuackVore0000" x="2636" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0001" x="3985" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0002" x="5334" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0003" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0004" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0005" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0006" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0007" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0008" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0009" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0010" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0011" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0012" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0013" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0014" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0015" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0016" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0017" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0018" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0019" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0020" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0021" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0022" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0023" x="6683" y="3950" width="1349" height="797"/>
+	<SubTexture name="CuackVore0024" x="0" y="4747" width="1349" height="797"/>
+	<SubTexture name="CuackVore0025" x="1349" y="4747" width="1349" height="797"/>
+	<SubTexture name="CuackVore0026" x="2698" y="4747" width="1349" height="797"/>
+	<SubTexture name="CuackVore0027" x="4047" y="4747" width="1349" height="797"/>
+	<SubTexture name="CuackVore0028" x="5396" y="4747" width="1349" height="797"/>
+	<SubTexture name="CuackVore0029" x="6745" y="4747" width="1349" height="797"/>
+	<SubTexture name="CuackVore0030" x="6745" y="4747" width="1349" height="797"/>
+	<SubTexture name="CuackVore0031" x="6745" y="4747" width="1349" height="797"/>
+	<SubTexture name="CuackVore0032" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0033" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0034" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0035" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0036" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0037" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0038" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0039" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0040" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0041" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0042" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0043" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0044" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0045" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0046" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0047" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0048" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0049" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0050" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0051" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0052" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0053" x="0" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0054" x="1349" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0055" x="2698" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0056" x="4047" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0057" x="5396" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0058" x="6745" y="5544" width="1349" height="797"/>
+	<SubTexture name="CuackVore0059" x="0" y="6341" width="1349" height="797"/>
+</TextureAtlas>

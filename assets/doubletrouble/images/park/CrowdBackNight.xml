@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CrowdBackNight.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bouncefront30000" x="0" y="0" width="846" height="336"/>
+	<SubTexture name="bouncefront30001" x="0" y="0" width="846" height="336"/>
+	<SubTexture name="bouncefront30002" x="846" y="0" width="846" height="336"/>
+	<SubTexture name="bouncefront30003" x="0" y="336" width="846" height="336"/>
+	<SubTexture name="bouncefront30004" x="846" y="336" width="846" height="336"/>
+	<SubTexture name="bouncefront30005" x="0" y="0" width="846" height="336"/>
+	<SubTexture name="bouncefront30006" x="0" y="0" width="846" height="336"/>
+	<SubTexture name="bouncefront30007" x="0" y="0" width="846" height="336"/>
+</TextureAtlas>

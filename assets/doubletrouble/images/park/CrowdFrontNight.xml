@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CrowdFrontNight.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bounceback30000" x="0" y="0" width="1353" height="245"/>
+	<SubTexture name="Bounceback30001" x="0" y="0" width="1353" height="245"/>
+	<SubTexture name="Bounceback30002" x="0" y="245" width="1353" height="245"/>
+	<SubTexture name="Bounceback30003" x="0" y="490" width="1353" height="245"/>
+	<SubTexture name="Bounceback30004" x="0" y="735" width="1353" height="245"/>
+	<SubTexture name="Bounceback30005" x="0" y="0" width="1353" height="245"/>
+	<SubTexture name="Bounceback30006" x="0" y="0" width="1353" height="245"/>
+	<SubTexture name="Bounceback30007" x="0" y="0" width="1353" height="245"/>
+</TextureAtlas>
