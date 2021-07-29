@@ -3173,27 +3173,6 @@ class PlayState extends MusicBeatState
 			var notesplsh:FlxSprite = new FlxSprite(daNote.x, playerStrums.members[daNote.noteData].y);
 			if (!curStage.startsWith('school'))
 			{
-				var tex:flixel.graphics.frames.FlxAtlasFrames = Paths.getSparrowAtlas('noteSplashes', 'shared');
-				notesplsh.frames = tex;
-				notesplsh.animation.addByPrefix('splash 0 0', 'note impact 1 purple', 24, false);
-				notesplsh.animation.addByPrefix('splash 0 1', 'note impact 1 blue', 24, false);
-				notesplsh.animation.addByPrefix('splash 0 2', 'note impact 1 green', 24, false);
-				notesplsh.animation.addByPrefix('splash 0 3', 'note impact 1 red', 24, false);
-				notesplsh.animation.addByPrefix('splash 1 0', 'note impact 2 purple', 24, false);
-				notesplsh.animation.addByPrefix('splash 1 1', 'note impact 2 blue', 24, false);
-				notesplsh.animation.addByPrefix('splash 1 2', 'note impact 2 green', 24, false);
-				notesplsh.animation.addByPrefix('splash 1 3', 'note impact 2 red', 24, false);
-				if (daRating == 'sick')
-				{
-					add(notesplsh);
-					notesplsh.animation.play('splash ' + FlxG.random.int(0, 1) + " " + daNote.noteData);
-					notesplsh.alpha = 0.6;
-					notesplsh.offset.x += 90;
-					notesplsh.cameras = [camHUD];
-					notesplsh.offset.y += 80;
-					notesplsh.animation.finishCallback = function(name) notesplsh.kill();
-				}
-			}
 
 			switch(daRating)
 			{
@@ -3443,6 +3422,7 @@ class PlayState extends MusicBeatState
 	
 			}
 		}
+	}
 
 	public function NearlyEquals(value1:Float, value2:Float, unimportantDifference:Float = 10):Bool
 		{
